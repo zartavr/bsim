@@ -16,7 +16,7 @@
 
 ![Модуляция длины канала](attachments/image-2.png)
 
-[BSIM Channel Length Modulation (CLM)](bsim/BSIM4_4.8.2_technical_manual.pdf#page=41)
+[BSIM Channel Length Modulation (CLM)](https://class.ece.iastate.edu/djchen/ee501/BSIM470_Manual.pdf#page=41)
 
 ## 2. Перекрытие обедненных областей истока и стока
 
@@ -44,7 +44,7 @@
 
 ![Прямой и обратный эффект короткого канала](attachments/image-3.png)
 
-[BSIM Short-Channel and DIBL Effects](bsim/BSIM4_4.8.2_technical_manual.pdf#page=23)
+[BSIM Short-Channel and DIBL Effects](https://class.ece.iastate.edu/djchen/ee501/BSIM470_Manual.pdf#page=23)
 
 ## 5. Эффект узкого канала.
 
@@ -54,11 +54,11 @@
 
 ![Изменение формы границы обедненной области](attachments/image-4.png)
 
-[BSIM Narrow-Width Effect](bsim/BSIM4_4.8.2_technical_manual.pdf#page=25)
+[BSIM Narrow-Width Effect](https://class.ece.iastate.edu/djchen/ee501/BSIM470_Manual.pdf#page=25)
 
 ## 6. Обратный эффект узкого канала.
 
-[BSIM Narrow-Width Effect](bsim/BSIM4_4.8.2_technical_manual.pdf#page=25)
+[BSIM Narrow-Width Effect](https://class.ece.iastate.edu/djchen/ee501/BSIM470_Manual.pdf#page=25)
 
 ## 7. Уменьшение подвижности вследствие вертикальной компоненты электрического поля.
 
@@ -78,7 +78,7 @@
 
 Чан Туан Чунг, Боровик А.М., Стемпицкий В.Р. Оптимизация параметров диффузионно-дрейфовой модели // Доклады БГУИР. 2014. №8 (86). URL: https://cyberleninka.ru/article/n/optimizatsiya-parametrov-diffuzionno-dreyfovoy-modeli (дата обращения: 10.12.2023).
 
-[BSIM Unified Mobility Model (5.12)](bsim/BSIM4_4.8.2_technical_manual.pdf#page=42)
+[BSIM Unified Mobility Model (5.12)](https://class.ece.iastate.edu/djchen/ee501/BSIM470_Manual.pdf#page=42)
 
 ## 8. Уменьшение продольной подвижности (насыщение дрейфовой скорости носителей в канале).
 
@@ -88,7 +88,7 @@
 
 ![Зависимость тока стока от напряжения сток-исток при разных напряжениях на затворе (красный пунктир – короткоканальные, синия сплошная – длинноканальные)](attachments/image-7.png)
 
-[BSIM Velocity Saturation](bsim/BSIM4_4.8.2_technical_manual.pdf#page=46)
+[BSIM Velocity Saturation](https://class.ece.iastate.edu/djchen/ee501/BSIM470_Manual.pdf#page=46)
 
 ## 9. Аномальный рост подвижности.
 
@@ -102,7 +102,7 @@
 
 Следует помнить, что в случае, когда проводящий канал не является идеальным, процессы рассеяния носителей заряда приводят к уменьшению тока, поскольку вероятность переноса носителей заряда становится меньше единицы. Это необходимо учитывать при расчете проводимости канала.
 
-[BSIM  Source End Velocity Limit Model](bsim/BSIM4_4.8.2_technical_manual.pdf#page=54)
+[BSIM  Source End Velocity Limit Model](https://class.ece.iastate.edu/djchen/ee501/BSIM470_Manual.pdf#page=54)
 
 ## 10. Подпороговая проводимость.
 
@@ -111,13 +111,13 @@
 
 ![Зависимость Log(I_ds )-U_gs для n-МОП-транзистора](attachments/image-8.png)
 
-[BSIM Subthreshold Swing n](bsim/BSIM4_4.8.2_technical_manual.pdf#page=31)
+[BSIM Subthreshold Swing n](https://class.ece.iastate.edu/djchen/ee501/BSIM470_Manual.pdf#page=31)
 
 ## 11. Последовательные сопротивления истока и стока.
 
 ## 12. Снижение потенциального барьера под затвором, вызванное напряжением на стоке (DIBL-эффект)
 
-[BSIM  Drain-Induced Barrier Lowering (DIBL)](bsim/BSIM4_4.8.2_technical_manual.pdf#page=50)
+[BSIM  Drain-Induced Barrier Lowering (DIBL)](https://class.ece.iastate.edu/djchen/ee501/BSIM470_Manual.pdf#page=50)
 
 ## 13. Статическая обратная связь.
 
@@ -125,13 +125,13 @@
 
 ## 15. Эффект влияния подложки, вызванный ее током (SCBE).
 
-[BSIM  Substrate Current Induced Body Effect (SCBE)](bsim/BSIM4_4.8.2_technical_manual.pdf#page=51)
+[BSIM  Substrate Current Induced Body Effect (SCBE)](https://class.ece.iastate.edu/djchen/ee501/BSIM470_Manual.pdf#page=51)
 
 ## 16. Влияние сопротивления подложки.
 
 ## 17. Ток утечки, индуцированный затвором (GIDL/GISL).
 
-[BSIM Body Current Models](bsim/BSIM4_4.8.2_technical_manual.pdf#page=56)
+[BSIM Body Current Models](https://class.ece.iastate.edu/djchen/ee501/BSIM470_Manual.pdf#page=56)
 
 ## 18. Эффект обеднения в поликремниевом затворе.
 
@@ -145,7 +145,7 @@
 
 ## 23. Туннелирование через p-n-переходы (ТАТ).
 
-[BSIM Equations for Tunneling Currents](bsim/BSIM4_4.8.2_technical_manual.pdf#page=35)
+[BSIM Equations for Tunneling Currents](https://class.ece.iastate.edu/djchen/ee501/BSIM470_Manual.pdf#page=35)
 
 ## 24. Неквазистатический эффект.
 
@@ -153,7 +153,7 @@
 
 ## 26. Учет перекрытия затвором областей истока и стока.
 
-[BSIM Overlap capacitance model](bsim/BSIM4_4.8.2_technical_manual.pdf#page=76)
+[BSIM Overlap capacitance model](https://class.ece.iastate.edu/djchen/ee501/BSIM470_Manual.pdf#page=76)
 
 ## 27. Эффект близости кармана (WPE).
 
